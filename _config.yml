@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Qingyi Zhao(赵晴宜)"
-description              : "Master in Civil Aviation University of China. "
+title                    : "Academic page"
+description              : ""
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
