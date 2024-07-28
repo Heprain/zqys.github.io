@@ -21,8 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Qingyi Zhao(赵晴宜)"
-  avatar           : "images/android-chrome-512x512.png"
+  name             : "Qingyi Zhao"
+  avatar           : "images/photo.jpg"
   bio              : "Civil Aviation University of China"
   location         : "Tianjin, China"
   employer         :
