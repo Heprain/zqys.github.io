@@ -31,7 +31,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -50,5 +50,5 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2022.09 -   now  *, Computer Science and Technology, School of computer science and technology, Civil Aviation University of China. 
-- *2018.09 - 2022.06*, Internet of Things Engineering, School of Computer Science and Communications Engineering, Guangxi University of Science and Technology.
+- *2022.09 - Present*, Computer Science and Technology, Civil Aviation University of China. 
+- *2018.09 - 2022.06*, Internet of Things Engineering, Guangxi University of Science and Technology.
