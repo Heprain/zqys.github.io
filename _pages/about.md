@@ -38,7 +38,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 Rui Huang, **Qingyi Zhao**, Yan Xing, Sihua Gao, Weifeng Xu, Yuxiang Zhang, Wei Fan
 
-![](https://img.shields.io/badge/-GitHub-412991?style=flat-square&logo=GitHub&logoColor=181717)
+![](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=FFFFFF)
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We create an effective saliency enhanced feature fusion (SEFF) module, which uses the saliency maps to improve the representative ability of the fused features.
