@@ -17,10 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing a master's Degree in computer science at College of Computer Science and Technology, Civil Aviation University of China in Tianjin, China.
+I am currently pursuing a master's Degree in computer science at the College of Computer Science and Technology, Civil Aviation University of China in Tianjin, China.
 
-My research interests lie in Change Detection(CD), RGB-D Salient Object Detection(RGB-D SOD) and their application in diverse practical scenarios, 
-
+My research interests lie in Change Detection(CD), RGB-D Salient Object Detection(RGB-D SOD), and their application in diverse practical scenarios.
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2024</div><img src='papers/ICASSP24.png' alt="sym" width="100%"></div></div>
