@@ -1,22 +1,3 @@
----
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<span class='anchor' id='about-me'></span>
-
 I am currently pursuing a master's Degree in computer science at College of Computer Science and Technology, Civil Aviation University of China in Tianjin, China.
 
 My research interests lie in Change Detection(CD), RGB-D Salient Object Detection(RGB-D SOD) and their application in diverse practical scenarios, such as biological and system large models. My focus also extends to developing efficient machine learning systems aimed at expediting the training and inference processing of LMMs (especially LLMs), leveraging expertise in high-performance computing and distributed systems.
