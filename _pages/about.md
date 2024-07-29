@@ -24,7 +24,7 @@ My research interests lie in Change Detection(CD), RGB-D Salient Object Detectio
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2024</div><img src='papers/ICASSP24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<h3>A Saliency Enhanced Feature Fusion Based Multiscale RGB-D Salient Object Detection Network</h3>
+<h2>A Saliency Enhanced Feature Fusion Based Multiscale RGB-D Salient Object Detection Network</h2>
 
 Rui Huang, **Qingyi Zhao**, Yan Xing, Sihua Gao, Weifeng Xu, Yuxiang Zhang, Wei Fan
 
