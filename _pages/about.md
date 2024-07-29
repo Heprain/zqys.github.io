@@ -24,11 +24,11 @@ My research interests lie in Change Detection(CD), RGB-D Salient Object Detectio
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2024</div><img src='papers/ICASSP24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[A Saliency Enhanced Feature Fusion Based Multiscale RGB-D Salient Object Detection Network](https://ieeexplore.ieee.org/document/10447807)
+A Saliency Enhanced Feature Fusion Based Multiscale RGB-D Salient Object Detection Network
 
 Rui Huang, **Qingyi Zhao**, Yan Xing, Sihua Gao, Weifeng Xu, Yuxiang Zhang, Wei Fan
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=FFFFFF)](https://github.com/Heprain/SEFFSal)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=FFFFFF)](https://github.com/Heprain/SEFFSal) [![Paper](https://img.shields.io/badge/-paperspace-000000?style=flat-square&logo=GitHub&logoColor=FFFFFF)](https://ieeexplore.ieee.org/document/10447807)
 
 - We create an effective saliency enhanced feature fusion (SEFF) module, which uses the saliency maps to improve the representative ability of the fused features.
 - Based on SEFF, we build a multiscale RGB-D saliency detector, which takes images with three different scales and generates high quality saliency results.
