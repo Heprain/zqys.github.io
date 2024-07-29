@@ -54,10 +54,12 @@ Rui Huang, **Qingyi Zhao**, Yan Xing, Sihua Gao, Weifeng Xu, Yuxiang Zhang, Wei 
 Rui Huang, **Qingyi Zhao**, Ruofei Wang, Caihua Liu, Sihua Gao, Yuxiang Zhang, Wei Fan
 
 - We propose an inception difference module to conduct the intra-layer multiscale feature fusion.
-- We propose a residual network refinement to capture inter-layer multiscale characteristics. 
+- We propose a residual network refinement to capture inter-layer multiscale characteristics.
+- Our method can consider both intra- and inter-layer multiscale characteristics simultaneously, which results in superior CD performance over other compared CD methods.
 </div>
 </div>
 
+- [HQFS: High-Quality Feature Selection for Accurate Change Detection](https://link.springer.com/chapter/10.1007/978-3-031-46305-1_3#citeas), Xing, Y., Xu, Q., **Zhao, Q.**, Huang, R., Zhang, Y. ICIG 2023.
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
