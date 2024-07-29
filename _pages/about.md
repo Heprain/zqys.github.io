@@ -54,8 +54,15 @@ Rui Huang, **Qingyi Zhao**, Ruofei Wang, Caihua Liu, Sihua Gao, Yuxiang Zhang, W
 - [C-NERF: Representing Scene Changes as Directional Consistency Difference-based NeRF](https://arxiv.org/abs/2312.02751), Rui Huang , Binbin Jiang, **Qingyi Zhao**, William Wang, Yuxiang Zhang, Qing Guo. Arxiv.
 
 # 🏆 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.06* 3rd prize, 2024“Challenge Cup” Tianjin University Student Entrepreneurship Plan Competition, CAUC
+- *2023.12* Outstanding Graduate Student Cadre (Top 5%), CAUC
+- *2023.12* Kyushu Scholarship (Top 1%), CAUC
+- *2022 & 2023* 1st prize (Top 20%), Postgraduate Scholarship, CAUC
+- *2021.12* 3rd Prize in the 13th National College Mathematics Competition (Non-mathematics), GXUST
+- *2020.11* 2nd Prize in the 2nd Guangxi Collegiate Artificial Intelligence Design Contest, GXUST
+- *2019.12* Scholarship of the Autonomous Region People's Government (Top 1%), GXUST
+- *2018.12* 1st prize, School-level Outstanding Student Scholarship， GXUST
+
 
 # 📖 Educations
 - *2022.09 - Present*, Computer Science and Technology, Civil Aviation University of China. 
