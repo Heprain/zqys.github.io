@@ -30,8 +30,8 @@ Rui Huang, **Qingyi Zhao**, Yan Xing, Sihua Gao, Weifeng Xu, Yuxiang Zhang, Wei 
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=FFFFFF)](https://github.com/Heprain/SEFFSal) [![Paper](https://img.shields.io/badge/-Paper-018EF5?style=flat-square&logo=readdotcv&logoColor=FFFFFF)](https://ieeexplore.ieee.org/document/10447807)
 
-- We create an effective saliency enhanced feature fusion (SEFF) module, which uses the saliency maps to improve the representative ability of the fused features.
-- Based on SEFF, we build a multiscale RGB-D saliency detector, which takes images with three different scales and generates high quality saliency results.
+- We create an effective saliency-enhanced feature fusion (SEFF) module, which uses the saliency maps to improve the ability to represent the fused features.
+- Based on SEFF, we build a multiscale RGB-D saliency detector, which takes images with three different scales and generates high-quality saliency results.
 - We have conducted extensive experiments on five benchmark datasets, which demonstrates that our method outperforms ten SOTA saliency detectors. 
 </div>
 </div>
@@ -39,9 +39,11 @@ Rui Huang, **Qingyi Zhao**, Yan Xing, Sihua Gao, Weifeng Xu, Yuxiang Zhang, Wei 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='papers/ICASSP23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ScaleMix: Intra- And Inter-Layer Multiscale Feature Combination for Change Detection](https://ieeexplore.ieee.org/document/10095962)
+<h3>ScaleMix: Intra- And Inter-Layer Multiscale Feature Combination for Change Detection</h3>
 
 Rui Huang, **Qingyi Zhao**, Ruofei Wang, Caihua Liu, Sihua Gao, Yuxiang Zhang, Wei Fan
+
+[![Paper](https://img.shields.io/badge/-Paper-018EF5?style=flat-square&logo=readdotcv&logoColor=FFFFFF)](https://ieeexplore.ieee.org/document/10095962)
 
 - We propose an inception difference module to conduct the intra-layer multiscale feature fusion.
 - We propose a residual network refinement to capture inter-layer multiscale characteristics.
@@ -51,7 +53,7 @@ Rui Huang, **Qingyi Zhao**, Ruofei Wang, Caihua Liu, Sihua Gao, Yuxiang Zhang, W
 
 - [HQFS: High-Quality Feature Selection for Accurate Change Detection](https://link.springer.com/chapter/10.1007/978-3-031-46305-1_3#citeas), Xing Yan, Qi’ao Xu, **Qingyi Zhao**, Rui Huang, Yuxiang Zhang. ICIG 2023.
 - [PAPnet: A Plug-and-play Virus Network for Backdoor Attack](https://ieeexplore.ieee.org/document/10580479), Rui Huang, Zongyu Guo, **Qingyi Zhao**, Wei Fan. CSCWD 2024.
-- [C-NERF: Representing Scene Changes as Directional Consistency Difference-based NeRF](https://arxiv.org/abs/2312.02751), Rui Huang , Binbin Jiang, **Qingyi Zhao**, William Wang, Yuxiang Zhang, Qing Guo. Arxiv.
+- [C-NERF: Representing Scene Changes as Directional Consistency Difference-based NeRF](https://arxiv.org/abs/2312.02751), Rui Huang, Binbin Jiang, **Qingyi Zhao**, William Wang, Yuxiang Zhang, Qing Guo. Arxiv.
 
 # 🏆 Honors and Awards
 - *2024.06* 3rd prize, 2024“Challenge Cup” Tianjin University Student Entrepreneurship Plan Competition, CAUC
