@@ -45,6 +45,19 @@ Rui Huang, **Qingyi Zhao**, Yan Xing, Sihua Gao, Weifeng Xu, Yuxiang Zhang, Wei 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='papers/ICASSP23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ScaleMix: Intra- And Inter-Layer Multiscale Feature Combination for Change Detection](https://ieeexplore.ieee.org/document/10095962)
+
+Rui Huang, **Qingyi Zhao**, Ruofei Wang, Caihua Liu, Sihua Gao, Yuxiang Zhang, Wei Fan
+
+- We create an effective saliency enhanced feature fusion (SEFF) module, which uses the saliency maps to improve the representative ability of the fused features.
+- Based on SEFF, we build a multiscale RGB-D saliency detector, which takes images with three different scales and generates high quality saliency results.
+- We have conducted extensive experiments on five benchmark datasets, which demonstrates that our method outperforms ten SOTA saliency detectors. 
+</div>
+</div>
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
