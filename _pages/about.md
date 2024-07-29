@@ -59,8 +59,9 @@ Rui Huang, **Qingyi Zhao**, Ruofei Wang, Caihua Liu, Sihua Gao, Yuxiang Zhang, W
 </div>
 </div>
 
-- [HQFS: High-Quality Feature Selection for Accurate Change Detection](https://link.springer.com/chapter/10.1007/978-3-031-46305-1_3#citeas), Xing, Y., Xu, Q., **Zhao, Q.**, Huang, R., Zhang, Y. ICIG 2023.
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [HQFS: High-Quality Feature Selection for Accurate Change Detection](https://link.springer.com/chapter/10.1007/978-3-031-46305-1_3#citeas), Xing Yan, Qi’ao Xu, **Qingyi Zhao**, Rui Huang, Yuxiang Zhang. ICIG 2023.
+- [PAPnet: A Plug-and-play Virus Network for Backdoor Attack](https://ieeexplore.ieee.org/document/10580479), Rui Huang, Zongyu Guo, **Qingyi Zhao**, Wei Fan. CSCWD 2024.
+- [C-NERF: Representing Scene Changes as Directional Consistency Difference-based NeRF](https://arxiv.org/abs/2312.02751), Rui Huang , Binbin Jiang, **Qingyi Zhao**, William Wang, Yuxiang Zhang, Qing Guo. Arxiv.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
