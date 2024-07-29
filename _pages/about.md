@@ -15,13 +15,14 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='-abo'></span>
 # 🌻 About Me
 
 I am currently pursuing a master's Degree in computer science at the College of Computer Science and Technology, Civil Aviation University of China in Tianjin, China.
 
 My research interests lie in Change Detection(CD), RGB-D Salient Object Detection(RGB-D SOD), and their application in diverse practical scenarios.
 
+<span class='anchor' id='-pub'></span>
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2024</div><img src='papers/ICASSP24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -56,6 +57,7 @@ Rui Huang, **Qingyi Zhao**, Ruofei Wang, Caihua Liu, Sihua Gao, Yuxiang Zhang, W
 - [PAPnet: A Plug-and-play Virus Network for Backdoor Attack](https://ieeexplore.ieee.org/document/10580479), Rui Huang, Zongyu Guo, **Qingyi Zhao**, Wei Fan. CSCWD 2024.
 - [C-NERF: Representing Scene Changes as Directional Consistency Difference-based NeRF](https://arxiv.org/abs/2312.02751), Rui Huang, Binbin Jiang, **Qingyi Zhao**, William Wang, Yuxiang Zhang, Qing Guo. Arxiv.
 
+<span class='anchor' id='-hon'></span>
 # 🏆 Honors and Awards
 - *2024.06* 3rd prize, 2024“Challenge Cup” Tianjin University Student Entrepreneurship Plan Competition, CAUC
 - *2023.12* Outstanding Graduate Student Cadre (Top 5%), CAUC
@@ -66,7 +68,7 @@ Rui Huang, **Qingyi Zhao**, Ruofei Wang, Caihua Liu, Sihua Gao, Yuxiang Zhang, W
 - *2019.12* Scholarship of the Autonomous Region People's Government (Top 1%), GXUST
 - *2018.12* 1st prize, School-level Outstanding Student Scholarship， GXUST
 
-
+<span class='anchor' id='-edu'></span>
 # 📖 Educations
 - *2022.09 - Present*, Computer Science and Technology, Civil Aviation University of China. 
 - *2018.09 - 2022.06*, Internet of Things Engineering, Guangxi University of Science and Technology.
