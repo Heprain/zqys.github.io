@@ -28,7 +28,7 @@ A Saliency Enhanced Feature Fusion Based Multiscale RGB-D Salient Object Detecti
 
 Rui Huang, **Qingyi Zhao**, Yan Xing, Sihua Gao, Weifeng Xu, Yuxiang Zhang, Wei Fan
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=FFFFFF)](https://github.com/Heprain/SEFFSal) [![Paper](https://img.shields.io/badge/-paperspace-000000?style=flat-square&logo=GitHub&logoColor=FFFFFF)](https://ieeexplore.ieee.org/document/10447807)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=FFFFFF)](https://github.com/Heprain/SEFFSal) [![Paper](https://img.shields.io/badge/-paperspace-000000?style=flat-square&logo=paperspace&logoColor=FFFFFF)](https://ieeexplore.ieee.org/document/10447807)
 
 - We create an effective saliency enhanced feature fusion (SEFF) module, which uses the saliency maps to improve the representative ability of the fused features.
 - Based on SEFF, we build a multiscale RGB-D saliency detector, which takes images with three different scales and generates high quality saliency results.
