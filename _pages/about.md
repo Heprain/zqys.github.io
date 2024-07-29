@@ -39,7 +39,7 @@ Rui Huang, **Qingyi Zhao**, Yan Xing, Sihua Gao, Weifeng Xu, Yuxiang Zhang, Wei 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='papers/ICASSP23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<h3>ScaleMix: Intra- And Inter-Layer Multiscale Feature Combination for Change Detection</h3>
+<h2>ScaleMix: Intra- And Inter-Layer Multiscale Feature Combination for Change Detection</h2>
 
 Rui Huang, **Qingyi Zhao**, Ruofei Wang, Caihua Liu, Sihua Gao, Yuxiang Zhang, Wei Fan
 
