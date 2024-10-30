@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "About Me"
-    url: "/#-abo"
+  # - title: "About Me"
+  #   url: "/#-abo"
     
   # - title: "Publications"
   #   url: "/#-pub"
