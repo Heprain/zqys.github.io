@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='-abo'></span>
 # 🌻 About Me
 
-I am currently pursuing a master's Degree in computer science at the College of Computer Science and Technology, Civil Aviation University of China in Tianjin, China.
+I am currently a Ph.d. candidate in computer science at Victoria University of Wellington, Wellington, New Zealand.
 
 My research interests lie in Change Detection(CD), RGB-D Salient Object Detection(RGB-D SOD), and their application in diverse practical scenarios.
 
@@ -57,7 +57,7 @@ Rui Huang, **Qingyi Zhao**, Ruofei Wang, Caihua Liu, Sihua Gao, Yuxiang Zhang, W
 - [PAPnet: A Plug-and-play Virus Network for Backdoor Attack](https://ieeexplore.ieee.org/document/10580479), Rui Huang, Zongyu Guo, **Qingyi Zhao**, Wei Fan. CSCWD 2024.
 - [C-NERF: Representing Scene Changes as Directional Consistency Difference-based NeRF](https://arxiv.org/abs/2312.02751), Rui Huang, Binbin Jiang, **Qingyi Zhao**, William Wang, Yuxiang Zhang, Qing Guo. Arxiv.
 
-<span class='anchor' id='-hon'></span>
+<!-- <span class='anchor' id='-hon'></span>
 # 🏆 Honors and Awards
 - *2024.06* 3rd prize, 2024“Challenge Cup” Tianjin University Student Entrepreneurship Plan Competition, CAUC
 - *2023.12* Outstanding Graduate Student Cadre (Top 5%), CAUC
@@ -66,9 +66,9 @@ Rui Huang, **Qingyi Zhao**, Ruofei Wang, Caihua Liu, Sihua Gao, Yuxiang Zhang, W
 - *2021.12* 3rd Prize in the 13th National College Mathematics Competition (Non-mathematics), GXUST
 - *2020.11* 2nd Prize in the 2nd Guangxi Collegiate Artificial Intelligence Design Contest, GXUST
 - *2019.12* Scholarship of the Autonomous Region People's Government (Top 1%), GXUST
-- *2018.12* 1st prize, School-level Outstanding Student Scholarship， GXUST
+- *2018.12* 1st prize, School-level Outstanding Student Scholarship， GXUST -->
 
-<span class='anchor' id='-edu'></span>
-# 📖 Educations
-- *2022.09 - Present*, Computer Science and Technology, Civil Aviation University of China. 
-- *2018.09 - 2022.06*, Internet of Things Engineering, Guangxi University of Science and Technology.
+% <span class='anchor' id='-edu'></span>
+% # 📖 Educations
+% - *2022.09 - Present*, Computer Science and Technology, Civil Aviation University of China. 
+% - *2018.09 - 2022.06*, Internet of Things Engineering, Guangxi University of Science and Technology.
