@@ -68,7 +68,7 @@ Rui Huang, **Qingyi Zhao**, Ruofei Wang, Caihua Liu, Sihua Gao, Yuxiang Zhang, W
 - *2019.12* Scholarship of the Autonomous Region People's Government (Top 1%), GXUST
 - *2018.12* 1st prize, School-level Outstanding Student Scholarship， GXUST -->
 
-% <span class='anchor' id='-edu'></span>
-% # 📖 Educations
-% - *2022.09 - Present*, Computer Science and Technology, Civil Aviation University of China. 
-% - *2018.09 - 2022.06*, Internet of Things Engineering, Guangxi University of Science and Technology.
+<!-- <span class='anchor' id='-edu'></span>
+# 📖 Educations
+- *2022.09 - 2025.06*, Computer Science and Technology, Civil Aviation University of China.
+- *2018.09 - 2022.06*, Internet of Things Engineering, Guangxi University of Science and Technology. -->
