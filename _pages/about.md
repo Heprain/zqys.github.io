@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='-abo'></span>
 # 🌻 About Me
 
-I am currently a Ph.d. candidate in computer science at Victoria University of Wellington, Wellington, New Zealand.
+I am currently a ph.d. candidate in computer science at Victoria University of Wellington, Wellington, New Zealand.
 
 My research interests lie in Change Detection(CD), RGB-D Salient Object Detection(RGB-D SOD), and their application in diverse practical scenarios.
 
